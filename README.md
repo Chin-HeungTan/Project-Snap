@@ -1,1 +1,1 @@
-# Project-Snap
+# Project-Snap (front-client)
