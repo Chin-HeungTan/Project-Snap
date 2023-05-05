@@ -1,0 +1,20 @@
+.study_mode_card .card-header,
+.sub_group_charts .card-header,
+.all_charts .card-header{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    background-color: #fff;
+    text-align:center;
+    border-bottom: 0px;
+
+}
+
+.study_mode_card .card-header,
+.all_charts .card-header{
+    margin: 20px;
+}
+
+.study_mode_card,
+.all_charts{
+    align-items: center;
+}

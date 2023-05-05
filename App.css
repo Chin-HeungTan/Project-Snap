@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.login,
+.homepage,
+.upload,
+.graphs,
+.prediction,
+.aboutus,
+.location,
+.juniors,
+.seniors,
+.course-major {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 2rem;
+}
